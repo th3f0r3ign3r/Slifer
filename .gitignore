@@ -1,2 +1,5 @@
 # Ignore all python cache DIR
 lib/__pycache__/*
+
+# Ignore sifler launch script
+sifler
