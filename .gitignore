@@ -2,4 +2,4 @@
 lib/__pycache__/*
 
 # Ignore sifler launch script
-sifler
+slifer
