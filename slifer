@@ -1,2 +1,0 @@
-#!/bin/bash
-rlwrap -c  python3 /home/th3f0r31gn3r/Development/Scripting/Slifer/slifer.py $*
